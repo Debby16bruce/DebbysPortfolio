@@ -1,0 +1,42 @@
+
+<section id="case-study">
+    <h2>UI/UX Case Study</h2>
+
+    <h3>Student Management System Redesign</h3>
+
+    <p><strong>Problem:</strong> Students and administrators often struggle with managing academic records due to complex and non-intuitive systems.</p>
+
+    <p><strong>Goal:</strong> To design a simple, user-friendly interface that allows easy access to student data and improves overall usability.</p>
+
+    <p><strong>My Process:</strong></p>
+    <ul>
+        <li>Identified key users (students and administrators)</li>
+        <li>Analyzed usability challenges like navigation complexity</li>
+        <li>Designed a clean and structured layout</li>
+        <li>Focused on simplicity, accessibility, and visual clarity</li>
+    </ul>
+
+    <p><strong>Solution:</strong></p>
+    <ul>
+        <li>Clean dashboard with organized data</li>
+        <li>Simple navigation for ease of use</li>
+        <li>Clear layout to reduce confusion</li>
+        <li>Consistent color theme inspired by the Vercel “purple pages” for better user engagement</li>
+    </ul>
+
+    <p><strong>Result:</strong> Improved usability by making the system easier to navigate and more efficient for users.</p>
+
+    <p><strong>Tools Used:</strong> Java, UI/UX Design Principles</p>
+
+    <!-- Link to live design on Vercel -->
+    <p><strong>View Live Design:</strong> <a href="https://debby11226.vercel.app" target="_blank">Student Management System UI</a></p>
+
+    <!-- Screenshots -->
+    <div class="case-screenshots">
+        <img src="case-study/img1.png" alt="Dashboard Screenshot" width="300">
+        <img src="case-study/image.png" alt="Navigation Screenshot" width="300">
+        <img src="case-study/img3.png" alt="Student Data Screenshot" width="300">
+        <img src="case-study/img4.png" alt="Additional Screenshot" width="300">
+    </div>
+
+</section>
